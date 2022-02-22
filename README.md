@@ -1,2 +1,2 @@
 # instalinks
-Webpage (Linktree style) for @leo_lacerda Instagram professional profile.
+Mobile only webpage (inspired on Linktree style) for @leo_lacerda Instagram professional profile.
